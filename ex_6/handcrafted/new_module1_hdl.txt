@@ -1,0 +1,27 @@
+  [
+    (hModule producer_0)
+    [
+      (hPortin clock)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin in1)
+      [
+        (hType sc_in)
+        (hType int)
+      ]
+      (hPortout out)
+      [
+        (hType sc_out)
+        (hType int)
+      ]
+      (hPortout ready)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+    ]
+    [
+    ]
+  ]

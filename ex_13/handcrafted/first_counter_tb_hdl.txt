@@ -1,0 +1,32 @@
+  [
+    (hModule first_counter_0)
+    [
+      (hPortin clock)
+      [
+        (hType sc_in)
+      ]
+      (hPortin enable)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin reset)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortout counter_out)
+      [
+        (hType sc_out)
+        (hType sc_uint)
+        (hType 4)
+      ]
+      (hVardecl count)
+      [
+        (hType sc_uint)
+        (hType 4)
+      ]
+    ]
+    [
+    ]
+  ]

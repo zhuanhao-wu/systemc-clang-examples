@@ -1,0 +1,82 @@
+  [
+    (hModule top_0)
+    [
+      (hPortin clk)
+      [
+        (hType sc_in)
+      ]
+      (hPortin in_port)
+      [
+        (hType sc_in)
+        (hType int)
+      ]
+      (hPortout out_port)
+      [
+        (hType sc_out)
+        (hType int)
+      ]
+      (hVardecl aev)
+      [
+        (hType sc_event)
+      ]
+      (hVardecl v)
+      [
+        (hType int)
+      ]
+      (hVardecl w)
+      [
+        (hType int)
+      ]
+      (hVardecl x)
+      [
+        (hType int)
+      ]
+      (hVardecl y)
+      [
+        (hType int)
+      ]
+    ]
+    [
+    ]
+  ]
+  [
+    (hModule top_1)
+    [
+      (hPortin clk)
+      [
+        (hType sc_in)
+      ]
+      (hPortin in_port)
+      [
+        (hType sc_in)
+        (hType int)
+      ]
+      (hPortout out_port)
+      [
+        (hType sc_out)
+        (hType int)
+      ]
+      (hVardecl aev)
+      [
+        (hType sc_event)
+      ]
+      (hVardecl v)
+      [
+        (hType int)
+      ]
+      (hVardecl w)
+      [
+        (hType int)
+      ]
+      (hVardecl x)
+      [
+        (hType int)
+      ]
+      (hVardecl y)
+      [
+        (hType int)
+      ]
+    ]
+    [
+    ]
+  ]

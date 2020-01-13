@@ -1,0 +1,128 @@
+  [
+    (hModule fa_0)
+    [
+      (hPortin a)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin b)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin cin)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortout cout)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+      (hPortout s)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+    ]
+    [
+    ]
+  ]
+  [
+    (hModule fa_1)
+    [
+      (hPortin a)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin b)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin cin)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortout cout)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+      (hPortout s)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+    ]
+    [
+    ]
+  ]
+  [
+    (hModule fa_2)
+    [
+      (hPortin a)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin b)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin cin)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortout cout)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+      (hPortout s)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+    ]
+    [
+    ]
+  ]
+  [
+    (hModule fa_3)
+    [
+      (hPortin a)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin b)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortin cin)
+      [
+        (hType sc_in)
+        (hType _Bool)
+      ]
+      (hPortout cout)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+      (hPortout s)
+      [
+        (hType sc_out)
+        (hType _Bool)
+      ]
+    ]
+    [
+    ]
+  ]

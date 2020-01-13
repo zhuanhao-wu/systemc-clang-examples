@@ -1,0 +1,33 @@
+  [
+    (hModule top_0)
+    [
+      (hPortin clk)
+      [
+        (hType sc_in)
+      ]
+      (hPortin in_port)
+      [
+        (hType sc_in)
+        (hType int)
+      ]
+      (hPortout out_port)
+      [
+        (hType sc_out)
+        (hType int)
+      ]
+      (hVardecl var)
+      [
+        (hType int)
+      ]
+      (hVardecl x)
+      [
+        (hType int)
+      ]
+      (hVardecl y)
+      [
+        (hType int)
+      ]
+    ]
+    [
+    ]
+  ]
