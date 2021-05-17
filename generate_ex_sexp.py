@@ -14,7 +14,7 @@ PYTHON_CONVERT_TEMPLATE = 'python {}/{}'.format(
 )
 SYSTEMC_CLANG_ARGUMENTS = [
     "-I", "{}/include/".format(os.environ['SYSTEMC']),
-    "-std=c++14",
+    "-std=c++17",
     "-I", "/usr/include/",
     "-D__STDC_CONSTANT_MACROS",
     "-D__STDC_LIMIT_MACROS",
