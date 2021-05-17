@@ -22,6 +22,7 @@ SYSTEMC_CLANG_ARGUMENTS = [
 ]
 
 
+
 def systemc_clang_commandline(filename, positional_arguments):
     """
     Extra args are positional and non positional arguments, for example,
